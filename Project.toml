@@ -1,0 +1,9 @@
+name = "swergio"
+uuid = "e6b2a00e-24cb-47de-a28f-2392a85400d4"
+authors = ["ish"]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
